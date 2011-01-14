@@ -1,0 +1,32 @@
+
+body, html {
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.clear {
+	clear: both;
+}
+
+
+#dropbox {
+	margin: 10px;
+	padding: 20px;
+	border: 6px solid #DEDEDE;
+}
+
+#dropbox #text {
+	margin-top: 36px;
+	margin-left: 20px;
+	font-family: Verdana;
+	font-size: 16px;
+}
